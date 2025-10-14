@@ -12,5 +12,6 @@ I'm currently learning:
  <li>Python 🐍</li>
  <li>HTML 🌐</li>
  <li>CSS 🎨</li>
+ <li>C ⚙️</li>
 </ul>
 
