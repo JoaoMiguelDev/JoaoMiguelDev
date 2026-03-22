@@ -26,12 +26,12 @@
 
 ## 🎲 Projetos em destaque
 
-### 🔮 [Lillith Aero]([link]https://github.com/JoaoMiguelDev/LillithAero)
+### 🔮 [Lillith Aero](https://github.com/JoaoMiguelDev/LillithAero)
 > Um jogo de plataforma com forte inspiração em Frutiger Aero
 
 `Godot` `Plataforma 2D`
 
-### ⚔️ [Masks Of Taldea]([link]https://github.com/c-lobato/mask_ggj)
+### ⚔️ [Masks Of Taldea](https://github.com/c-lobato/mask_ggj)
 > Um jogo de plataforma feito em 48 horas para a Global Game Jam.
 
 `Godot` `Plataforma 2D` `Game Jam`
