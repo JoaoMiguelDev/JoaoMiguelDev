@@ -1,4 +1,4 @@
-## Olá, sou [João Miguel] 👋
+## Olá, sou João Miguel 👋
 
 ---
 
